@@ -1,0 +1,25 @@
+
+# Terminal utils, (clear etc.)
+ncurses
+
+# Documentation
+man-db
+man
+man-pages
+
+# General tools
+python3
+python3-pip
+gcc
+vim-enhanced
+
+# Network tools
+whois
+curl
+wget
+iputils
+iproute
+
+# Reverse engineering
+gdb
+
